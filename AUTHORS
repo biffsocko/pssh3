@@ -1,2 +1,7 @@
-Andrew McNabb <amcnabb at mcnabbs.org>
-Brent Chun <bnc at theether.org>
+Andrew McNabb <amcnabb at mcnabbs.org> - origional author
+Brent Chun <bnc at theether.org>       - origional author
+Nicolas PLANEL <nplanel@gmail.com>     - updated to work with Python3
+TR Murphy <trmurphy@lavabit.com>       - moved it to python.org / maintainer
+                                         (until somone else takes over)
+
+
