@@ -1,0 +1,9 @@
+This was forked from https://github.com/nplanel/parallel-ssh.  The origional authors wrote a great product, but it was incompatable with python3.  Nplanel made a few small 
+changes to update the compatibility.  I contacted the origional authors and asked them to update https://pypi.org/project/pssh/ but they didn't seem interested.  I reached out 
+to nplanal and asked if he would be the maintainer, but also did not hear anything back.  I think this is a great tool, and I'd hate to see it fade into obsecurity because of 
+lack of maintenance.  I've renamed the project pssh3 for the purpose of adding it to the pip repository, so that others can use the new updated version of this.  My intention
+is to also bother RedHat to add it as part of their repositories as well.  
+If you have any questions, I can be reached at trmurphy@lavabit.com
+
+Best Regards,
+Tom
